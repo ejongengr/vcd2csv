@@ -22,3 +22,4 @@ Usage:\
     * close xsim_dump.vcd \
     file saved at project_adc.sim\sim_1\behav\xsim
         
+![fft](fft.png "FFT")
