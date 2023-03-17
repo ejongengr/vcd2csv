@@ -3,9 +3,9 @@
         https://github.com/cirosantilli/vcdvcd
         vcdcat file of the site
     Usage:
-        python vcd2csv a.vcd
-        python vcd2csv a.vcd -c out.csv
-        python vcd2csv -h
+        python vcd2csv.py a.vcd
+        python vcd2csv.py a.vcd -c out.csv
+        python vcd2csv.py -h
 
     ### How to dump signals at Vivado Simulator
     [ Vivado Tcl Console ]
