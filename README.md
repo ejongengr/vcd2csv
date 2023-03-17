@@ -1,5 +1,6 @@
 # vcd2csv
-Convert VCD(value change dump) to CSV file
+Convert VCD(value change dump) to CSV file\
+vcd to csv conversion
 
 Reference: https://github.com/cirosantilli/vcdvcd
 
